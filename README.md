@@ -17,7 +17,9 @@ OAuth2 + JWT
 
 * spring cloud 方案
 
-## devops
+## PM/devops
+
+软件开发管理以及DevOps相关流程及工具
 
 [DevOps](devops/README.md)
 
@@ -29,13 +31,17 @@ OAuth2 + JWT
 
 ## 后台管理 admin
 
-[后台admin](admin/README.md)
+后台管理框架
 
+[后台admin](admin/README.md)
 
 # 相关组件或子系统
 
 ## 内容管理系统CMS
 
+web内容和多媒体内容管理，包含知识库管理。
+
+[内容管理系统CMS](cms/README.md)
 
 ## 文档管理系统DMS
 
@@ -43,16 +49,9 @@ OAuth2 + JWT
 
 ## 工作流BPM/办公自动化OA
 
-* 简单定制开发
+基于开源工作流引擎定制开发或者第三方套件，以及办公自动化OA套件。
 
-适合流程简单，流程数量少，通过程序定制开发调用工作流引擎。
-
-Acitiviti & Jbpm 
-
-* 快速套件
-
-OpenBPM，工作流快速定制开发套装，可视化配置数据模型、业务表单、业务流程等，快速实施上线。
-
+[工作流BPM/OA](bpm/README.md)
 
 
 
