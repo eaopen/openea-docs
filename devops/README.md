@@ -1,6 +1,6 @@
 
 
-# 开发管理环境
+## 开发管理环境
 
 * 敏捷开发管理 JIRA
 
@@ -9,8 +9,7 @@
 * 代码管理 GIT （gitlab）
 
 
-
-# devops环境项目
+## devops环境项目
 
 * devops-kompose
 
