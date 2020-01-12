@@ -42,7 +42,17 @@ https://www.onlyoffice.com
 
 ## 专用文档--专业文件
 
-* DWG 文件
+专业设计文件格式，如AutoCAD等文件解析及预览。
+
+通用格式-DXF，西门子UGNX
+
+* LibreCAD
+
+LibreCAD is a free Open Source CAD application for Windows, Apple and Linux. Support and documentation is free from our large, dedicated community of users, contributors and developers.
+
+https://www.librecad.org/
+
+https://github.com/LibreCAD/LibreCAD
 
 * dwg2ansys
 
@@ -50,6 +60,11 @@ AutoCAD DWG converter to ANSYS APDL based on ObjectARX
 
 https://github.com/naszta/dwg2ansys
 
+* dxf-parser
+
+A javascript parser for DXF files. It reads DXF file strings into one large javascript object with more readable properties and a more logical structure.
+
+https://github.com/gdsestimating/dxf-parser
 
 ## 对象存储系统 OSS
 
