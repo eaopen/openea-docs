@@ -18,3 +18,17 @@ https://gitee.com/qiqiim/qiqiim-server
 
 Have your own Slack like online chat, built with Meteor.
 https://github.com/agileeip/Rocket.Chat
+
+* 泡泡IM
+
+泡泡IM是一套完整的PHP H5即时聊天源码，支持打包成app，让你的应用快速拥有即时通讯功能。 购买授权后可得到整套WebIM网页聊天源码。
+
+全开源H5移动端版本
+提供H5移动端版所有源码,可二次开发
+代码完全开源，无外部依赖
+程序和数据完全自己掌控
+一次性收费，获得终身使用权
+提供3个月一对一技术支持
+9800¥/套
+
+https://www.popoim.cn/
