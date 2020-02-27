@@ -37,9 +37,14 @@ OAuth2 + JWT
 
 ## 微服务框架
 
-* 服务网格方案 istio
+* 微服务技术架构方向 
+    - 服务网格方案 istio
+    - spring cloud 方案
+* 开源微服务架构  
+开源企业微服务架构平台 OpeanEA MSP (Open Enterprise Arch - MicroService Platform)  
+详细介绍参见 [EA-MSP](technical/microservice/ea-msp/README.md)
 
-* spring cloud 方案
+* [微服务技术架构参考](technical/microservice/README.md)
 
 ## PM/devops
 
