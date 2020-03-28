@@ -6,9 +6,14 @@
 - sys_app 应用系统，关联前端应用和oauth认证
 - sys_service 后台服务，集成微服务的服务发现
 
+### 用户
+- sys_user 用户
+- user_connect 第三方用户认证
+
+如何区分内部用户、合作伙伴用户、2B客户的用户、2C用户
+
 ### 系统权限
 （通用）
-- sys_user 用户
 - sys_role 角色
 - sys_perm 权限
 
