@@ -96,5 +96,12 @@ https://github.com/KOHGYLW/kiftd
 
 https://github.com/aliyun/oss-browser
 
+## 在线office
+* Libreoffice   
+https://zh-cn.libreoffice.org/download/libreoffice-online/
+
+* hansontable excel web组件
+https://handsontable.com/
+
 
 
