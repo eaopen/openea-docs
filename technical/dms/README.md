@@ -100,8 +100,16 @@ https://github.com/aliyun/oss-browser
 * Libreoffice   
 https://zh-cn.libreoffice.org/download/libreoffice-online/
 
-* hansontable excel web组件
+* dzzoffice    
+http://www.dzzoffice.com/
+
+* hansontable excel web组件   
 https://handsontable.com/
+
+
+## 文档
+* 有没有可以自己架设的，类似 Google Docs 的在线表格编辑工具？  
+https://www.zhihu.com/question/22607504
 
 
 
